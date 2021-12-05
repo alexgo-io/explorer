@@ -1,7 +1,7 @@
 {
   "version": 2,
   "public": false,
-  "alias": ["stacks-explorer"],
+  "alias": ["regtest-3-explorer"],
   "routes": [
     {
       "src": "/api/(.*)",
