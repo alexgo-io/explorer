@@ -77,8 +77,8 @@ export const DEFAULT_NETWORK_INDEX = DEFAULT_MAINNET_INDEX;
 
 export const DEFAULT_NETWORK_LIST = [
   {
-    label: 'alexgo-regtest-3',
-    url: 'https://regtest-3.alexgo.io',
+    label: 'alexgo-stacks-node',
+    url: 'https://stacks-node.alextest.xyz',
   },
   {
     label: 'localhost',

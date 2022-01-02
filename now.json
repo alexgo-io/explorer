@@ -1,7 +1,7 @@
 {
   "version": 2,
   "public": false,
-  "alias": ["regtest-3-explorer"],
+  "alias": ["alexgo-stacks-explorer"],
   "routes": [
     {
       "src": "/api/(.*)",
