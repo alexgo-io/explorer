@@ -1,7 +1,7 @@
 {
   "version": 2,
   "public": false,
-  "alias": ["alexgo-stacks-explorer"],
+  "alias": ["alexlab-stacks-explorer"],
   "routes": [
     {
       "src": "/api/(.*)",
