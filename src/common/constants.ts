@@ -77,8 +77,12 @@ export const DEFAULT_NETWORK_INDEX = DEFAULT_MAINNET_INDEX;
 
 export const DEFAULT_NETWORK_LIST = [
   {
-    label: 'alexgo-stacks-node',
-    url: 'https://stacks-node-api.alexlab.co',
+    label: 'stacks.co',
+     url: DEFAULT_MAINNET_SERVER,
+   },
+   {
+     label: 'stacks.co',
+     url: DEFAULT_TESTNET_SERVER,
   }
 ];
 
