@@ -78,12 +78,8 @@ export const DEFAULT_NETWORK_INDEX = DEFAULT_MAINNET_INDEX;
 export const DEFAULT_NETWORK_LIST = [
   {
     label: 'alexgo-stacks-node',
-    url: 'https://stacks-node.alextest.xyz',
-  },
-  {
-    label: 'localhost',
-    url: 'http://localhost:3999',
-  },
+    url: 'https://stacks-node-api.alexlab.co',
+  }
 ];
 
 export enum MODALS {
