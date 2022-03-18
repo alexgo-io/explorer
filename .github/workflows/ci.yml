@@ -10,7 +10,7 @@
 #   - Deploys to staging environment
 #   - Deploys to prod environment
 
-name: CI/CD 
+name: CI/CD
 on:
   push:
     branches:
